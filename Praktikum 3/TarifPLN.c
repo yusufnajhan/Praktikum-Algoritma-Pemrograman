@@ -3,7 +3,7 @@
 //            berdasarkan golongan dan pemakaian daya listrik.
 //Nama      : Yusuf Muhammad Najhan
 //NIM       : 24060121130048
-
+//Halo, Selamat Sinag
 
 #include <stdio.h>
 
