@@ -3,6 +3,7 @@
 //            berdasarkan jumlah anak dan gaji pokok.
 //Nama      : Yusuf Muhammad Najhan
 //NIM       : 24060121130048
+//Halo Selamat Sore
 
 
 #include <stdio.h>
